@@ -1,0 +1,8 @@
+Install vscode
+Add latex workshop extention
+Download miktex: https://miktex.org/download
+go to miktex app and click on update to update everything
+Install strawberry perl 64 bit version: https://strawberryperl.com/
+close and reopen vscode
+Open a folder and create a new file with .tex extention
+Happy latexing
